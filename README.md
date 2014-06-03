@@ -3,6 +3,14 @@ devict-fizzbuzz
 
 GettingMono
 
+Description
+
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "fizz" instead of the number and for the multiples of five print "buzz". For numbers which are multiples of both three and five print "fizzbuzz".
+
+Bonus Points
+
+Since this is a relatively simple challenge, take this opportunity to explore unit testing in the language of your choice.
+
 
 
 Executing the program....
