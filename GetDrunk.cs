@@ -27,7 +27,7 @@ class FizzBuzz
             else if(beer%5 == 0)
                 Beer.Drink(this.SuperBurp);  
             else
-                Console.WriteLine(beer.ToString());
+                Beer.Drink(beer.ToString());
         }
     }
 }
